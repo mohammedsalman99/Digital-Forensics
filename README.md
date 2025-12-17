@@ -39,6 +39,3 @@ This investigation was conducted with strict adherence to:
 - **Chain of Custody** protocols.
 - **Expert Witness Duties:** Providing independent, objective, and unbiased opinion to the court.
 - **Data Integrity:** Ensuring no data on the original media was modified during the analysis.
-
----
-*Project completed by Mohammed Anwar Salman as part of a Digital Forensics specialization.*
